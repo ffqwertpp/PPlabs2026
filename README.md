@@ -6,7 +6,7 @@ src/matmul.cpp            программа: читает A и B, считае�
 tools/generate.py         генератор случайных матриц
 tools/verify.py           верификация через NumPy (A @ B)
 tools/run_experiments.py  серия экспериментов: генерация -> запуск -> проверка -> таблица
-data/                     сгенерированные матрицы (в git не попадают)
+data/                     сгенерированные матрицы
 report/lab1/              results.csv и results.md с результатами замеров
 CMakeLists.txt            сборка
 ```
